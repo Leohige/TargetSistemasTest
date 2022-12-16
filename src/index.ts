@@ -63,7 +63,7 @@ function menu() : void {
         console.log('3. Daily Revenue');
         console.log('4. Monthly Revenue');
         console.log('5. Reverse String');
-        console.log('0. Sair');
+        console.log('0. Exit');
         
         const option = questionInt('\nChoose an option: ');
         
